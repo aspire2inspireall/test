@@ -1,2 +1,2 @@
 # test
-test_repo
+test_first_repo
