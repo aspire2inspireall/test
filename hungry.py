@@ -1,0 +1,1 @@
+print("Stay hungry Stay foolish")
